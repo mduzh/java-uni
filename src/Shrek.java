@@ -22,9 +22,5 @@ public class Shrek {
                 }
             }
         }
-
-        int[] lst = new int[]{arr.length / 2};
-        for(int k = (arr.length / 2) + 1; k < arr.length; k++) {
-        }
     }
 }
